@@ -321,7 +321,7 @@ class VisionMamba(nn.Module):
         self.patch_embed = PatchEmbed_freq(
             img_size=img_size, patch_size=patch_size, stride=stride, in_chans=channels, embed_dim=embed_dim)
         # num_patches = self.patch_embed.num_patches * 4
-        num_patches = 255
+        num_patches = 256
 
         # generate mask freq
         self.freq_range = mask_generate(img_size, 4)
