@@ -35,7 +35,9 @@ Vim and VMamba adopt a flattening strategy similar to (a) and (b), transmuting t
 
 The above code trains GlobalMamba based on Vim. We have reorganized the original token sequence based on frequency in the models_mamba.py file, so you only need to transfer this part to other vision mamba frameworks for comparison.
 
+## Motivation of GlobalMamba
 
+![Alt text](./result.png)
 
 ## Acknowledgement 
 This project is based on Vision Mamba ([code](https://github.com/hustvl/Vim/tree/main)), Mamba ([code](https://github.com/state-spaces/mamba)), Causal-Conv1d ([code](https://github.com/Dao-AILab/causal-conv1d)), DeiT ([code](https://github.com/facebookresearch/deit)). Thanks for their wonderful works.
