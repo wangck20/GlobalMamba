@@ -2,6 +2,12 @@
 
 This repository is the official implementation of **GlobalMamba: Global Image Serialization for Vision Mamba**
 
+## [Paper](http://arxiv.org/abs/2410.10316)
+
+> GlobalMamba: Global Image Serialization for Vision Mamba
+
+> [Chengkun Wang](https://scholar.google.com/citations?user=69-8jtcAAAAJ&hl=zh-CN&oi=sra), [Wenzhao Zheng](https://wzzheng.net/), [Jie Zhou](https://scholar.google.com/citations?user=6a79aPwAAAAJ&hl=en&authuser=1), [Jiwen Lu](http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/)
+
 ## Motivation of GlobalMamba
 
 ![Alt text](./motivation.png)
