@@ -47,3 +47,15 @@ The above code trains GlobalMamba based on Vim. We have reorganized the original
 
 ## Acknowledgement 
 This project is based on Vision Mamba ([code](https://github.com/hustvl/Vim/tree/main)), Mamba ([code](https://github.com/state-spaces/mamba)), Causal-Conv1d ([code](https://github.com/Dao-AILab/causal-conv1d)), DeiT ([code](https://github.com/facebookresearch/deit)). Thanks for their wonderful works.
+
+## Citation
+
+If you find this project helpful, please consider citing the following paper:
+```
+@article{wang2024globalmamba,
+    title={GlobalMamba: Global Image Serialization for Vision Mamba},
+    author={Chengkun Wang and Wenzhao Zheng and Jie Zhou and Jiwen Lu},
+    journal={arXiv preprint arXiv:2410.10316},
+    year={2024}
+}
+```
